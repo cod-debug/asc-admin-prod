@@ -12,6 +12,6 @@ COPY dev.env .env
 
 ENV NODE_ENV development
 
-EXPOSE 2022
+EXPOSE 1313
 
 CMD ["node", "server.js"]
